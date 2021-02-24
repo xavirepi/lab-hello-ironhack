@@ -7,7 +7,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.btn-primary {
+  background-color: white;
+  color: #1f2535;
+  font-weight: 500;
+  border: none;
+  border-radius: 2px;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #D1D1D1;
+  border-color: #f1f1f1;
+  color: #1f2535;
 }
