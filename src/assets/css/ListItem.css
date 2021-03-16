@@ -1,0 +1,16 @@
+.ListItem {
+    padding: 0 1rem;
+    text-align: left;
+  }
+  
+  .ListItem > h4 {
+    color: #1f2635;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .ListItem p {
+    color: #878787;
+    font-size: 1rem;
+    line-height: 1.5;
+  }

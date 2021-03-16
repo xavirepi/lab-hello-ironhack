@@ -1,0 +1,36 @@
+.Intro {
+    background-color: #1f2536;
+    color: #fff;
+}
+
+.Intro .Intro-texts {
+    padding: 4rem;
+    text-align: left;
+    width: 35rem;
+}
+
+.Intro .Intro-texts .Intro-title {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+
+.Intro .Intro-texts .Intro-description {
+    font-size: 1.2rem;
+    display: inline-block;
+    margin-bottom: 2.4rem;
+}
+
+.Intro .Intro-texts .Intro-description span {
+    display: block;
+}
+
+.Intro .Intro-btn {
+    display: block;
+    width: fit-content;
+    background-color: #fff;
+    color: #1f2635;
+    padding: 1rem;
+    border-radius: 0.1rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+}

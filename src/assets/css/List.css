@@ -1,0 +1,10 @@
+.List {
+    display: flex;
+        justify-content: space-between;
+    flex-wrap: nowrap;
+    padding: 4rem 2rem;
+  }
+  
+  .List .ListItem {
+    width: 25%;
+  }
